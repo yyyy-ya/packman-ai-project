@@ -1,2 +1,10 @@
-# packman-ai-project
-Pacman game AI implementation using FSM and Utility AI
+# Pacman AI Project
+
+This project implements AI logic for a Pacman-style game.
+
+## Features
+- Finite State Machine (FSM) for ghost behavior
+- Utility AI for dynamic decision making
+
+## Tech Stack
+- Python
